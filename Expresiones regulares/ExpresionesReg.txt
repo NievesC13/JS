@@ -1,0 +1,11 @@
+    las expresiones regulares son patrones que permitamos entrar distintos caracteres, si el caracter que ingresa
+concuerda con alguno de los patrones que necesitamos, lo aceptanos o hacemos algo con el, si no. 
+lo descartamos. 
+
+    La podemos hacer mas complicadas segun los patrones que necesitemos. Asi de esa manera obtenemos mas precision en los
+datos que vayamos recibiendo, hay que ser tan especificos como estrictos necesitemos. 
+
+    Asi como nos sirven los parametros que aceptemos en nuestra expresion regular tambien nos sirve las que descartemos ya que. 
+se le podra dar otro uso o ahora espacio en memoria cuando se descarga. 
+
+    
